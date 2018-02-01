@@ -2,9 +2,7 @@ package com.example.android.favoritetoys;
 
 public final class ToyBox {
 
-    /**
-     * @return A list of popular toys
-     */
+    // returneaza lista de string-uri
     public static String[] getToyNames() {
         return new String[] {
                 "Red Toy Wagon",
